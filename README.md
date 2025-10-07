@@ -5,13 +5,13 @@
 Herramienta `CLI` que permite a usuarios con suscripción descargar cursos para acceso offline, facilitando el estudio desde cualquier lugar y en cualquier momento sin necesidad de conexión a Internet.
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![GitHub repo size](https://img.shields.io/github/repo-size/alpha-drm/plz-downloader)]()
-![GitHub Repo stars](https://img.shields.io/github/stars/alpha-drm/plz-downloader)
-![GitHub forks](https://img.shields.io/github/forks/alpha-drm/plz-downloader)
-![GitHub watchers](https://img.shields.io/github/watchers/alpha-drm/plz-downloader)
-![GitHub top language](https://img.shields.io/github/languages/top/alpha-drm/plz-downloader)
-![GitHub Created At](https://img.shields.io/github/created-at/alpha-drm/plz-downloader)
-![GitHub last commit](https://img.shields.io/github/last-commit/alpha-drm/plz-downloader)
+[![GitHub repo size](https://img.shields.io/github/repo-size/alpha-drm/fs-downloader)]()
+![GitHub Repo stars](https://img.shields.io/github/stars/alpha-drm/fs-downloader)
+![GitHub forks](https://img.shields.io/github/forks/alpha-drm/fs-downloader)
+![GitHub watchers](https://img.shields.io/github/watchers/alpha-drm/fs-downloader)
+![GitHub top language](https://img.shields.io/github/languages/top/alpha-drm/fs-downloader)
+![GitHub Created At](https://img.shields.io/github/created-at/alpha-drm/fs-downloader)
+![GitHub last commit](https://img.shields.io/github/last-commit/alpha-drm/fs-downloader)
 
 </div>
 
