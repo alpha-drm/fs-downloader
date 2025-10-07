@@ -1,0 +1,8 @@
+.DS_store
+.env
+*.json
+*.log
+venv/
+virtual/
+json/
+ruff.toml
